@@ -27,6 +27,6 @@ FOR THE PROJECT WE WILL NEED:
 
 For the PCB board pcb manufacturing process I chose PCBWay which is sure to find quality and economical boards with the features and color I want. 
 You can order the Crius Vertical Infinity v1.0 PCB at the following link: 
-www.pcbway.com
+https://www.pcbway.com/project/shareproject/Crius_Vertical_Infinity_Control_v1_0_USB_MIDI_Controller_c3b20edd.html
 
 ![14](https://user-images.githubusercontent.com/63908995/225078273-18dd583d-7b9a-4252-aed8-1ce839b5736e.jpg)
